@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism;
 
 public class Abs1 extends Abs {
 

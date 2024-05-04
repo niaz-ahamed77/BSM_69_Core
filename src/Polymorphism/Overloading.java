@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism;
 
 public class Overloading {
     void test(){

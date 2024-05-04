@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism;
 
 public class DBLogicTest {
     public static void main(String[] args) {

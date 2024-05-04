@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism;
 
 public interface DBLogic {
 
