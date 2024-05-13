@@ -25,7 +25,7 @@ public class LinkedListDemo {
         // List<Employee> elist = new LinkedList<Employee>();
         // elist.add(new Employee(101, "James", 7805f, "NY"));
         // elist.add(new Employee(102, "Alack", 467f, "Pitts"));
-        // Collections.sort(elist, new IdComparator());
+        // Collections.sort(elist, new IdComparator());         // (arrayList object, class object like IdComparator/NameComparator)
         // System.out.println(elist);
         System.out.println("=============================");
 
